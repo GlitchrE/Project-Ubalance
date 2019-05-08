@@ -1,3 +1,4 @@
+"megacham": "Medicham-Mega",
 "mgoth": "Gothitelle-Mega",
 "megoth": "Gothitelle-Mega",
 "megagoth": "Gothitelle-Mega",
